@@ -1,28 +1,13 @@
-import { IoIosArrowDropleft, IoIosSearch } from "react-icons/io"
-import { CiHeart } from "react-icons/ci";
-import { IoCartOutline, IoHeart } from "react-icons/io5";
-import { IoIosArrowDown } from "react-icons/io";
+
 import { IoIosArrowForward } from "react-icons/io";
-import { IoIosArrowRoundForward } from "react-icons/io";
-import { MdOutlineRemoveRedEye } from "react-icons/md";
-import { RiStarSFill } from "react-icons/ri";
-import { FaTruckFast } from "react-icons/fa6";
-import { FaHeadphones } from "react-icons/fa6";
-import { BiCheckShield } from "react-icons/bi";
-import { IoCallOutline } from "react-icons/io5";
-import { TiMail } from "react-icons/ti";
+
 import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
-import { CiUser } from "react-icons/ci";
-import { CiAlarmOn } from "react-icons/ci";
-import { BsGraphUp } from "react-icons/bs";
-import { RxTriangleRight } from "react-icons/rx";
 
-import { HiMenuAlt3 } from "react-icons/hi";
-import { IoClose } from "react-icons/io5";
-import { useState } from "react";
+
+
 
 export default function Blog(){
 
